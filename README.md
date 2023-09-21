@@ -31,6 +31,8 @@ Latest commit 927c0df on Sep 12
 **[apkzar.co](https://apkzar.co)** - Make changes to the apkzar.co Wiki
 **[apkyolo.com](https://apkyolo.com)** - Make changes to the apkyolo.com Wiki
 **[1mody.com](https://1mody.com)** - Make changes to the 1mody.com Wiki
+**[apkzar.net)(https://apkzar.net)** - Make changes to the 1mody.com Wiki
+**[relaxmody.com](https://relaxmody.com)** - Make changes to the 1mody.com Wiki
 ***
 ***
 
@@ -153,7 +155,7 @@ Latest commit 927c0df on Sep 12
 ***
 ***
 
-**[AVish.in](https://aakashvish.in)** - Make changes to the FMHY Wiki
+**[modylite.com)[https://modylite.com]** - Make changes to the FMHY Wiki
 
 ***
 ***
